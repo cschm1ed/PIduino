@@ -1,0 +1,142 @@
+[
+    {
+        "pin": 0,
+        "name": "D0",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 1,
+        "name": "D1",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 2,
+        "name": "D2",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 3,
+        "name": "D3",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 4,
+        "name": "D4",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 5,
+        "name": "D5",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 6,
+        "name": "D6",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 7,
+        "name": "D7",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 8,
+        "name": "D8",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 9,
+        "name": "D9",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 10,
+        "name": "D10",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 11,
+        "name": "D11",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 12,
+        "name": "D12",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 13,
+        "name": "D13",
+        "type": "digital",
+        "state": "LOW",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 14,
+        "name": "A14",
+        "type": "analog",
+        "state": "0.0V",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 15,
+        "name": "A15",
+        "type": "analog",
+        "state": "0.0V",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 16,
+        "name": "A16",
+        "type": "analog",
+        "state": "0.0V",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 17,
+        "name": "A17",
+        "type": "analog",
+        "state": "0.0V",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 18,
+        "name": "A18",
+        "type": "analog",
+        "state": "0.0V",
+        "mode": "OUTPUT"
+    },
+    {
+        "pin": 19,
+        "name": "A19",
+        "type": "analog",
+        "state": "0.0V",
+        "mode": "OUTPUT"
+    }
+]
